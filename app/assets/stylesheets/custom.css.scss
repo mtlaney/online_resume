@@ -1,0 +1,21 @@
+#banner {
+  background-image: asset-url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.title{
+  color: white;
+  font-size: 10em;
+  text-align: center;
+  font-family: "Arial";
+}
+
+.sub_title{
+  color: #f0f5f9;
+  font-size: 3em;
+  text-align: center;
+  font-family: "Arial";
+}
